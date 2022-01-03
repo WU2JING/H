@@ -1,0 +1,142 @@
+echo 			screen
+units			metal
+dimension       3
+boundary	    p p p
+newton 		    on
+
+#------------------- Parameters ---------------------- 
+variable 	reply		equal 	40				
+variable 	length  	equal 	2598.92626896    # Length of the system
+variable 	T0 		equal 	300	# Temperature
+variable 	Tdiff 	    	equal 	40	# Temperature difference at two ends
+
+variable 	eqNVT 		equal	    100000 	#
+variable 	eqheaing	equal	    100000	#
+variable 	thermoC		equal       300000000	
+variable 	timeicrt 	equal	    0.001	#
+variable 	Ntot     	equal 	    22	#
+
+
+variable 	Td 		equal		5				
+variable 	DT 		equal           0.1	
+variable 	DT2 		equal  	 	100*${DT}
+variable 	eps             equal           20
+variable 	Thot1		equal 		${T0}+${Tdiff}/2
+variable 	Tcold1	        equal 		${T0}-${Tdiff}/2	
+#------------------------------------------------------
+atom_style			atomic
+neighbor 			2. nsq
+read_data 			./dataGaN
+replicate                       800 2 1
+#------------------------------------------------------
+
+
+#-------------------------DeePMD Potential-------------------
+#MTP
+pair_style      deepmd  graph.pb 
+pair_coeff      
+#------------------------------------------------------ 
+
+#----------------Fixed Layers at two ENDs--------------
+variable   	temp1   equal  -0.5
+variable   	temp2   equal  ${eps}
+region     	leftFix block   ${temp1} ${temp2} INF INF   INF INF units box 
+group      	leftFix region leftFix
+
+variable	temp1   equal    ${length}-${eps}
+variable	temp2   equal    ${length}+0.5
+region     	rightFix block  ${temp1} ${temp2} INF INF  INF INF units box 
+group      	    rightFix region rightFix
+
+group 	      	Fix  union leftFix rightFix 
+group 			all1 subtract all Fix
+
+compute 		Tall1  all1 temp    #calculate the temprature of mobile
+
+#------------------------------------------------------
+
+#-------------- Grouping the Thermal Layers -----------
+variable		i loop ${Ntot}  #i equal from 1 to 22
+label 			loop2
+variable		temp1   equal  ($i-1)*(${length}-2*${eps})/${Ntot}+${eps}
+variable   	    temp2   equal  ($i)*(${length}-2*${eps})/${Ntot}+${eps}
+region     	    $i block    ${temp1} ${temp2}  INF INF  INF INF units box 
+group       	$i region $i
+next 		    i
+jump 		    ./in.thermal loop2
+ 
+region 		cold  union 2 ${Ntot} ${Ntot}   units box
+group  		cold  region cold
+
+region 		hot  union 2 1 1 units box
+group  		hot  region hot
+
+group 		bXXX  union hot cold
+group 		allf subtract all1 bXXX
+#-------------------------------------------------------
+
+#-----------------OutPut Style-1--------------------------
+compute 	stN all stress/atom NULL
+compute		stN11  all reduce sum c_stN[1]
+compute		stN12  all reduce sum c_stN[2]
+
+variable	Sgiga11	equal (c_stN11)/(10^4*vol)
+variable	Sgiga12	equal (c_stN12)/(10^4*vol)
+
+timestep     		${timeicrt}    #0.0005
+thermo 					10000
+thermo_style 		custom step etotal v_Sgiga11 v_Sgiga12 temp c_Tall1
+thermo_modify 	    norm yes
+dump            0 all custom 1000 LZ.lmc id type  mass x y z
+velocity        all create 300.0 4928459 rot yes dist gaussian
+#---------------  Boundary Fixing and Equilibrium Run ------------------------
+velocity 	leftFix  set 0.0 0.0 0.0 units box
+velocity 	rightFix set 0.0 0.0 0.0 units box
+
+fix 		001  	leftFix  setforce 0.0 0.0 0.0
+fix 		002  	rightFix setforce 0.0 0.0 0.0
+
+fix          	1 all1 nvt temp ${T0} ${T0} ${DT}
+fix_modify   	1 temp Tall1
+thermo          10000
+run 		${eqNVT}
+unfix 		1
+
+#----------------------------------------------------------
+
+#-----------------OutPut Style-2--------------------------
+uncompute 	stN
+uncompute 	stN11
+uncompute 	stN12
+thermo_style 	custom step etotal temp c_Tall1
+thermo_modify 	norm no
+#---------------------------------------------------------
+
+#---------------  Applying the temperature difference  -------------------
+fix		        3 allf  nve
+fix             nvt_right  cold     nvt  temp   ${Tcold1}  ${Tcold1}  ${DT}
+fix             nvt_left   hot      nvt  temp   ${Thot1}   ${Thot1}   ${DT}
+run 		${eqheaing}
+
+variable 	laststep equal step
+#----------------------------------------------------------
+
+#--------------- Layer Temperature Computation -------------------
+variable 	i loop ${Ntot}
+label 		loop3
+compute 	T$i $i temp
+next 		i
+jump 		./in.thermal loop3
+#-----------------------------------------------------------------
+
+#----------------------------------------------------------
+#           Run Final Thermal Conductivity Evaluation
+#--------------------------------------------------------- 
+variable 	run1 equal thermoC
+variable 	run2 equal ${thermoC}+${laststep}
+
+fix 		8 	all1 ave/time 1 100000 100000 c_T1 c_T2 c_T3 c_T4 c_T5 c_T6 c_T7 c_T8 c_T9 c_T10 c_T11 c_T12 c_T13 c_T14 c_T15 c_T16 c_T17 c_T18 c_T19 c_T20 c_T21 c_T22 file ./T-X.txt
+fix         10  all  ave/time  10  200  2000   f_nvt_left  f_nvt_right file ./fnvt.txt
+run 		${thermoC}
+#----------------------------------------------------------- 
+
