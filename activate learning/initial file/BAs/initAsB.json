@@ -1,0 +1,22 @@
+{
+"stages":[3,4],                                                
+"super_cell":   [4, 4, 4],                                                   
+"elements":     ["As","B"], 
+"cell_type":    "",
+"from_poscar":  true,                                                        
+"from_poscar_path": "./POSCAR",                                        
+"potcars":      [
+                 "./POTCAR.As","./POTCAR.B"                                            
+        ],                                                                   
+"relax_incar": "./INCAR.rlx",                                          
+"md_incar" : "./INCAR.md",                                             
+"scale":        [0.98,1.00,1.02],                                                      
+"skip_relax":   true,                                                       
+"pert_numb":    10,                                                          
+"md_nstep" :    15,                                                             
+"pert_box":     0.03,                                                        
+"pert_atom":    0.01,                                                        
+"coll_ndata":   5000,   
+"type_mape":   ["As","B"], 
+"_comment":     "that's all"                                                 
+ }       
