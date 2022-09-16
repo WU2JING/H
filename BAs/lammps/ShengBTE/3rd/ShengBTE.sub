@@ -1,0 +1,7 @@
+#!/bin/bash -l
+#SBATCH -N 1
+#SBATCH -J OPT
+#SBATCH --ntasks-per-node=36
+#SBATCH -t 123:0:0
+#SBATCH --partition=cpu1
+srun -n 36 ShengBTE3 >>LOG.vasp 2>&1

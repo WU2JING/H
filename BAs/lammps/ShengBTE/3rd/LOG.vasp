@@ -1,0 +1,1537 @@
+ Info: symmetry group F-43m detected
+ Info:           24  symmetry operations
+ Info: Ntot =        3375
+ Info: Nlist =         120
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B5F8D466555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B1FEB8DC555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B3006E5B555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B8C7A84B555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B8ED37B7555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AD00ADD2555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B245371A555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B7BF58A9555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AABE77D5555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B82B7E93555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B805068B555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002BAA6F0D5555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B1B2E389555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B4EBDF71555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B0BCA648555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002ABA5A3F3555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B64A3293555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AB6FD7FC555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B042F538555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B18A2C36555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B7401817555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B087220A555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AF750B7F555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B5CB89C0555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAC7884C555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B38E57DE555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AD09F1FC555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B3FE3171555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B1B8EAFB555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B18DD07F555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AFD773BE555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AF4AA86C555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B62202E2555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AC89CFBA555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B7A995E2555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AC32F54C555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B4E5C26A555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B273232B555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002ADF0FDB0555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B4656445555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B5200732555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B2E617DD555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B3ED9EF1555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B8FD9E60555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B7D2C5AD555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002ADCD329A555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AD2B7B68555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AC8EA566555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B7FFD4F9555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002ACC0A838555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B8C3714D555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B91DA623555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B4A95979555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AD8ED1FB555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B97BC3F9555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+ Info: about to obtain the spectrum
+ Info: expecting Phonopy 2nd-order format
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B5179D3C555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+srun: error: c2-2: tasks 0-55: Exited with exit code 29
+ Info: symmetry group F-43m detected
+ Info:           24  symmetry operations
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+ Info: Ntot =        8000
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+ Info: Nlist =         256
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B5065C33555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002BA0D07BA555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B8AC7046555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AC3202E3555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B9ED8FAF555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B824C86B555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AEAD75AE555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B676901A555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AEC6FD75555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B3B5F9D7555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B996C87B555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B646A34B555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B5E4246E555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B5C34874555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B340ADA6555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B7673381555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B05ED04B555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B98D1736555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B1974FBE555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B578F48C555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B8CDDA30555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AC4FC6E2555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B9B84631555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AE925DFF555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B35CEE71555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AF25BD5F555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B43A17F0555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AC59FB09555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B9A9A1D9555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B7145F2B555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B8DC9A01555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AD62AD04555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AC4DDA5E555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AB0B6D55555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AC84C683555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B1B8ED24555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B5F25D52555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AE396703555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AFF21541555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B6171C63555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B8633708555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B47579DD555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B48B2383555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B8607C61555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B8096693555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B50DAB56555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AECE3217555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B237BD7C555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002BA54B6A0555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B20D112A555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B4754219555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B9DD17C6555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B7308859555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B95C7A04555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B1133581555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+ Info: about to obtain the spectrum
+ Info: expecting Phonopy 2nd-order format
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 1, file /work/jwu/CAsB/300/FORCE_CONSTANTS_2ND
+Image              PC                Routine            Line        Source             
+ShengBTE3          00000000018BA419  Unknown               Unknown  Unknown
+ShengBTE3          00000000018C98BF  Unknown               Unknown  Unknown
+ShengBTE3          0000000000416092  input_mp_read2fc_          59  input.f90
+ShengBTE3          000000000041F21A  phonon_routines_m         148  phonon_routines.f90
+ShengBTE3          000000000041CFDE  phonon_routines_m          69  phonon_routines.f90
+ShengBTE3          000000000044B252  MAIN__                    158  ShengBTE.f90
+ShengBTE3          0000000000404A1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B25887A2555  __libc_start_main     Unknown  Unknown
+ShengBTE3          0000000000404929  Unknown               Unknown  Unknown
+srun: error: c2-2: tasks 0-55: Exited with exit code 29
+ Info: symmetry group F-43m detected
+ Info:           24  symmetry operations
+ Info: Ntot =        8000
+ Info: Nlist =         256
+ Info: about to obtain the spectrum
+ Info: expecting Phonopy 2nd-order format
+ Info: about to set the acoustic frequencies at Gamma to zero
+ Info: original values:
+ Info: omega(1,1) = -3.800761950954321E-003 rad/ps
+ Info: omega(1,2) = -1.077829989972891E-003 rad/ps
+ Info: omega(1,3) =  2.345918558518300E-003 rad/ps
+ Info: spectrum calculation finished
+ Info: Ntotal_plus =      111952
+ Info: Ntotal_minus =      117878
+ Info: Iteration           1
+ Info:Relative change=  0.339562914992583     
+ Info: Iteration           2
+ Info:Relative change=  0.214446638387814     
+ Info: Iteration           3
+ Info:Relative change=  0.107714688083037     
+ Info: Iteration           4
+ Info:Relative change=  6.087005546165399E-002
+ Info: Iteration           5
+ Info:Relative change=  3.610655202049748E-002
+ Info: Iteration           6
+ Info:Relative change=  2.193543798680690E-002
+ Info: Iteration           7
+ Info:Relative change=  1.350770040060371E-002
+ Info: Iteration           8
+ Info:Relative change=  8.385742609552873E-003
+ Info: Iteration           9
+ Info:Relative change=  5.231924584706147E-003
+ Info: Iteration          10
+ Info:Relative change=  3.274309251059734E-003
+ Info: Iteration          11
+ Info:Relative change=  2.053114006760483E-003
+ Info: Iteration          12
+ Info:Relative change=  1.288931166805926E-003
+ Info: Iteration          13
+ Info:Relative change=  8.097947364631260E-004
+ Info: Iteration          14
+ Info:Relative change=  5.090104534004749E-004
+ Info: Iteration          15
+ Info:Relative change=  3.200430125120541E-004
+ Info: Iteration          16
+ Info:Relative change=  2.012666066511455E-004
+ Info: Iteration          17
+ Info:Relative change=  1.265862482314922E-004
+ Info: Iteration          18
+ Info:Relative change=  7.962211324436697E-005
+ Info: Iteration          19
+ Info:Relative change=  5.008425809854266E-005
+ Info: Iteration          20
+ Info:Relative change=  3.150515464524273E-005
+ Info: Iteration          21
+ Info:Relative change=  1.981846723237800E-005
+ Info: Iteration          22
+ Info:Relative change=  1.246704704162889E-005
+ Info: Iteration          23
+ Info:Relative change=  7.842604983174126E-006
+ Info: normal exit
+ Info: symmetry group F-43m detected
+ Info:           24  symmetry operations
+ Info: Ntot =        8000
+ Info: Nlist =         256
+ Info: about to obtain the spectrum
+ Info: expecting Phonopy 2nd-order format
+ Info: about to set the acoustic frequencies at Gamma to zero
+ Info: original values:
+ Info: omega(1,1) = -4.093467546454871E-003 rad/ps
+ Info: omega(1,2) = -1.199602774838547E-003 rad/ps
+ Info: omega(1,3) =  4.422498520536649E-003 rad/ps
+ Info: spectrum calculation finished
+ Info: Ntotal_plus =      111952
+ Info: Ntotal_minus =      117878
+ Info: Iteration           1
+ Info:Relative change=  0.335340355195736     
+ Info: Iteration           2
+ Info:Relative change=  0.203566142163189     
+ Info: Iteration           3
+ Info:Relative change=  9.902143533832028E-002
+ Info: Iteration           4
+ Info:Relative change=  5.430040504269532E-002
+ Info: Iteration           5
+ Info:Relative change=  3.122704433751381E-002
+ Info: Iteration           6
+ Info:Relative change=  1.836769979654145E-002
+ Info: Iteration           7
+ Info:Relative change=  1.093786534575736E-002
+ Info: Iteration           8
+ Info:Relative change=  6.560284711969662E-003
+ Info: Iteration           9
+ Info:Relative change=  3.951456971989045E-003
+ Info: Iteration          10
+ Info:Relative change=  2.386140698215312E-003
+ Info: Iteration          11
+ Info:Relative change=  1.443113351114514E-003
+ Info: Iteration          12
+ Info:Relative change=  8.735897897034539E-004
+ Info: Iteration          13
+ Info:Relative change=  5.291255249061046E-004
+ Info: Iteration          14
+ Info:Relative change=  3.205958499012611E-004
+ Info: Iteration          15
+ Info:Relative change=  1.942884064229423E-004
+ Info: Iteration          16
+ Info:Relative change=  1.177579863679170E-004
+ Info: Iteration          17
+ Info:Relative change=  7.137841901919867E-005
+ Info: Iteration          18
+ Info:Relative change=  4.326767374257543E-005
+ Info: Iteration          19
+ Info:Relative change=  2.622843318302917E-005
+ Info: Iteration          20
+ Info:Relative change=  1.589968582100449E-005
+ Info: Iteration          21
+ Info:Relative change=  9.638495030760854E-006
+ Info: normal exit
+ Info: symmetry group F-43m detected
+ Info:           24  symmetry operations
+ Info: Ntot =        8000
+ Info: Nlist =         256
+ Info: about to obtain the spectrum
+ Info: expecting Phonopy 2nd-order format
+ Info: about to set the acoustic frequencies at Gamma to zero
+ Info: original values:
+ Info: omega(1,1) = -4.093467546454871E-003 rad/ps
+ Info: omega(1,2) = -1.199602774838547E-003 rad/ps
+ Info: omega(1,3) =  4.422498520536649E-003 rad/ps
+ Info: spectrum calculation finished
+ Info: Ntotal_plus =      111952
+ Info: Ntotal_minus =      117878
+ Info: Iteration           1
+ Info:Relative change=  0.339551814287997     
+ Info: Iteration           2
+ Info:Relative change=  0.214451101236167     
+ Info: Iteration           3
+ Info:Relative change=  0.107715292595386     
+ Info: Iteration           4
+ Info:Relative change=  6.087065421431415E-002
+ Info: Iteration           5
+ Info:Relative change=  3.610707388589064E-002
+ Info: Iteration           6
+ Info:Relative change=  2.193585075045391E-002
+ Info: Iteration           7
+ Info:Relative change=  1.350801596929461E-002
+ Info: Iteration           8
+ Info:Relative change=  8.385976850920761E-003
+ Info: Iteration           9
+ Info:Relative change=  5.232094659247626E-003
+ Info: Iteration          10
+ Info:Relative change=  3.274430686794420E-003
+ Info: Iteration          11
+ Info:Relative change=  2.053199566581333E-003
+ Info: Iteration          12
+ Info:Relative change=  1.288990793156273E-003
+ Info: Iteration          13
+ Info:Relative change=  8.098359095890785E-004
+ Info: Iteration          14
+ Info:Relative change=  5.090386625035425E-004
+ Info: Iteration          15
+ Info:Relative change=  3.200622098146879E-004
+ Info: Iteration          16
+ Info:Relative change=  2.012795950352287E-004
+ Info: Iteration          17
+ Info:Relative change=  1.265949911500447E-004
+ Info: Iteration          18
+ Info:Relative change=  7.962797211094511E-005
+ Info: Iteration          19
+ Info:Relative change=  5.008816878150929E-005
+ Info: Iteration          20
+ Info:Relative change=  3.150775580067662E-005
+ Info: Iteration          21
+ Info:Relative change=  1.982019195045441E-005
+ Info: Iteration          22
+ Info:Relative change=  1.246818742247096E-005
+ Info: Iteration          23
+ Info:Relative change=  7.843357091561601E-006
+ Info: normal exit
