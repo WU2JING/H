@@ -1,0 +1,263 @@
+{
+    "type_map":		["As","B"],
+    "mass_map":		[74.92,10.81],
+
+    "init_data_prefix":	"/public/home/jwu2/CAsB",
+
+    "init_data_sys":	[
+	  "POSCAR.04x04x04/02.md/sys-0064-0064/deepmd/"
+    ],
+    "sys_configs_prefix": "/public/home/jwu2/CAsB",
+    "sys_configs":	[
+   [
+   "POSCAR.04x04x04/01.scale_pert/sys-0064-0064/scale-*/000000/POSCAR",
+   "POSCAR.04x04x04/01.scale_pert/sys-0064-0064/scale-*/000001/POSCAR",
+   "POSCAR.04x04x04/01.scale_pert/sys-0064-0064/scale-*/000002/POSCAR"
+]
+,
+   [
+   "POSCAR.04x04x04/01.scale_pert/sys-0064-0064/scale-*/000003/POSCAR",
+   "POSCAR.04x04x04/01.scale_pert/sys-0064-0064/scale-*/000004/POSCAR",
+   "POSCAR.04x04x04/01.scale_pert/sys-0064-0064/scale-*/000005/POSCAR",
+   "POSCAR.04x04x04/01.scale_pert/sys-0064-0064/scale-*/000006/POSCAR",
+   "POSCAR.04x04x04/01.scale_pert/sys-0064-0064/scale-*/000007/POSCAR"
+],
+
+   [
+   "POSCAR.04x04x04/01.scale_pert/sys-0064-0064/scale-*/000008/POSCAR",
+   "POSCAR.04x04x04/01.scale_pert/sys-0064-0064/scale-*/000009/POSCAR",
+   "POSCAR.04x04x04/01.scale_pert/sys-0064-0064/scale-*/000000/POSCAR",
+   "POSCAR.04x04x04/01.scale_pert/sys-0064-0064/scale-*/000001/POSCAR",
+   "POSCAR.04x04x04/01.scale_pert/sys-0064-0064/scale-*/000002/POSCAR",
+   "POSCAR.04x04x04/01.scale_pert/sys-0064-0064/scale-*/000003/POSCAR"
+],
+
+[
+   "POSCAR.04x04x04/01.scale_pert/sys-0064-0064/scale-*/000004/POSCAR",
+   "POSCAR.04x04x04/01.scale_pert/sys-0064-0064/scale-*/000005/POSCAR",
+   "POSCAR.04x04x04/01.scale_pert/sys-0064-0064/scale-*/000006/POSCAR",
+   "POSCAR.04x04x04/01.scale_pert/sys-0064-0064/scale-*/000007/POSCAR",
+   "POSCAR.04x04x04/01.scale_pert/sys-0064-0064/scale-*/000008/POSCAR",
+   "POSCAR.04x04x04/01.scale_pert/sys-0064-0064/scale-*/000009/POSCAR",
+   "POSCAR.04x04x04/01.scale_pert/sys-0064-0064/scale-*/000010/POSCAR"
+],
+[
+   "POSCAR.04x04x04/01.scale_pert/sys-0064-0064/scale-*/000000/POSCAR",
+   "POSCAR.04x04x04/01.scale_pert/sys-0064-0064/scale-*/000001/POSCAR",
+   "POSCAR.04x04x04/01.scale_pert/sys-0064-0064/scale-*/000002/POSCAR",
+   "POSCAR.04x04x04/01.scale_pert/sys-0064-0064/scale-*/000003/POSCAR",
+   "POSCAR.04x04x04/01.scale_pert/sys-0064-0064/scale-*/000004/POSCAR"
+],
+[
+   "POSCAR.04x04x04/01.scale_pert/sys-0064-0064/scale-*/000005/POSCAR",
+   "POSCAR.04x04x04/01.scale_pert/sys-0064-0064/scale-*/000006/POSCAR",
+   "POSCAR.04x04x04/01.scale_pert/sys-0064-0064/scale-*/000007/POSCAR",
+   "POSCAR.04x04x04/01.scale_pert/sys-0064-0064/scale-*/000008/POSCAR",
+   "POSCAR.04x04x04/01.scale_pert/sys-0064-0064/scale-*/000009/POSCAR",
+   "POSCAR.04x04x04/01.scale_pert/sys-0064-0064/scale-*/000010/POSCAR"
+],
+
+["POSCAR.04x04x04/01.scale_pert/sys-0064-0064/scale-*/*/POSCAR"]
+    ],
+
+    "_comment":		" 00.train ",
+    "numb_models":	4,
+    "default_training_param" : {
+	"_comment": " model parameters",
+	"model" : {
+		"type_map": [
+                "C"
+            ],
+	    "descriptor": {
+		"type":		"se_e2_a",
+		"sel":		[80,80],
+		"rcut_smth":	0.5,
+		"rcut":		6.00,
+		"neuron":	[30, 60],
+		"resnet_dt":	false,
+		"axis_neuron":	16,
+		"seed":		1
+	    },
+	    "fitting_net" : {
+		"neuron":	[160, 160, 160],
+		"resnet_dt":	true,
+		"seed":		1
+	    }
+	},
+
+	"loss" : {
+	    "start_pref_e":	0.02,
+	    "limit_pref_e":	2,
+	    "start_pref_f":	1000,
+	    "limit_pref_f":	1,
+	    "start_pref_v":	0,
+	    "limit_pref_v":	0
+	},
+
+	"learning_rate" : {
+	    "type":		"exp",
+	    "decay_steps":	170,
+	    "start_lr":	0.001,	
+	     "stop_lr":	3.58e-8,
+	    "_comment":	"that's all"
+	},
+
+
+	"_comment": " traing controls",
+ "training" : {
+            "training_data": {
+            "systems":          [],
+            "batch_size":       "auto",
+            "_comment":         "that's all"
+        },
+            "numb_steps":      40000,
+            "seed":             10,
+            "disp_file":        "lcurve.out",
+            "disp_freq":        1000,
+            "save_freq":        1000
+        },
+
+	"_comment":		"that's all"
+    },
+
+    "_comment":		" 01.model_devi ",
+    "_comment": "model_devi_skip: the first x of the recorded frames",
+    "model_devi_dt":		0.001,
+    "model_devi_skip":		0,
+    "model_devi_f_trust_lo":	0.05,
+    "model_devi_f_trust_hi":	0.20,
+    "model_devi_e_trust_lo":	1e10,
+    "model_devi_e_trust_hi":	1e10,
+    "model_devi_clean_traj":	true,
+    "model_devi_jobs":	[
+   { "sys_idx": [0],
+     "ensemble": "npt", "nsteps": 2000,"press": [1.0], "temps": [50,100], "trj_freq": 10 },
+    {"sys_idx": [1],
+     "ensemble": "npt", "nsteps": 2000,"press": [1.0], "temps": [150,200], "trj_freq": 10 },
+    {"sys_idx": [2],
+     "ensemble": "npt", "nsteps": 2000,"press": [1.0], "temps": [250,300], "trj_freq": 10 },
+    {"sys_idx": [3],
+     "ensemble": "npt", "nsteps": 2000, "press": [1.0],"temps": [350,400], "trj_freq": 10 },
+   {"sys_idx": [4],
+     "ensemble": "npt", "nsteps": 2000, "press": [1.0],"temps": [450,500], "trj_freq": 10 },
+   {"sys_idx": [5],
+     "ensemble": "npt", "nsteps": 2000, "press": [1.0],"temps": [550,600], "trj_freq": 10 },
+   {"sys_idx": [0],
+     "ensemble": "npt", "nsteps": 2000, "press": [1.0],"temps": [50,150,300], "trj_freq": 10 },
+   {"sys_idx": [1],
+     "ensemble": "npt", "nsteps": 2000, "press": [1.0],"temps": [50,150,300], "trj_freq": 10 },
+   {"sys_idx": [2],
+     "ensemble": "npt", "nsteps": 2000, "press": [1.0],"temps": [50,150,300], "trj_freq": 10 },
+   {"sys_idx": [3],
+     "ensemble": "npt", "nsteps": 2000, "press": [1.0],"temps": [400,500,600], "trj_freq": 10 },
+   {"sys_idx": [4],
+     "ensemble": "npt", "nsteps": 2000, "press": [1.0],"temps": [400,500,600], "trj_freq": 10 },
+   {"sys_idx": [5],
+     "ensemble": "npt", "nsteps": 2000, "press": [1.0],"temps": [400,500,600], "trj_freq": 10 },
+   {"sys_idx": [0],
+     "ensemble": "npt", "nsteps": 2000, "press": [1.0],"temps": [50], "trj_freq": 10 },
+   {"sys_idx": [1],
+     "ensemble": "npt", "nsteps": 2000, "press": [1.0],"temps": [50], "trj_freq": 10 },
+   {"sys_idx": [2],
+     "ensemble": "npt", "nsteps": 2000, "press": [1.0],"temps": [50], "trj_freq": 10 },
+   {"sys_idx": [0],
+     "ensemble": "npt", "nsteps": 2000, "press": [1.0],"temps": [300], "trj_freq": 10 },
+   {"sys_idx": [1],
+     "ensemble": "npt", "nsteps": 2000, "press": [1.0],"temps": [300], "trj_freq": 10 },
+   {"sys_idx": [2],
+     "ensemble": "npt", "nsteps": 2000, "press": [1.0],"temps": [300], "trj_freq": 10 },
+   {"sys_idx": [0],
+     "ensemble": "npt", "nsteps": 2000, "press": [1.0],"temps": [500], "trj_freq": 10 },
+   {"sys_idx": [1],
+     "ensemble": "npt", "nsteps": 2000, "press": [1.0],"temps": [500], "trj_freq": 10 },
+   {"sys_idx": [2],
+     "ensemble": "npt", "nsteps": 2000, "press": [1.0],"temps": [500], "trj_freq": 10 },
+   { "_idx": 21,
+     "sys_idx": [0,1,2],
+     "ensemble": "npt", "nsteps": 1000, "press": [1.0],"temps": [500,700,900], "trj_freq": 5 },
+   { "_idx": 22,
+     "sys_idx": [0,1,2],
+     "ensemble": "npt", "nsteps": 1000, "press": [1.0],"temps": [500,700,900], "trj_freq": 5 },
+   { "_idx": 23,
+     "sys_idx": [0,1,2],
+     "ensemble": "npt", "nsteps": 1500, "press": [1.0],"temps": [500,700,900], "trj_freq": 5 },
+   { "_idx": 24,
+     "sys_idx": [0,1,2],
+     "ensemble": "npt", "nsteps": 1500, "press": [1.0],"temps": [500,700,900], "trj_freq": 5 },
+   { "_idx": 25,
+     "sys_idx": [0,1,2],
+     "ensemble": "npt", "nsteps": 1000, "press": [1.0],"temps": [1100,1300,1500], "trj_freq": 5 },
+   { "_idx": 26,
+     "sys_idx": [0,1,2],
+     "ensemble": "npt", "nsteps": 1000, "press": [1.0],"temps": [1100,1300,1500], "trj_freq": 5 },
+   { "_idx": 27,
+     "sys_idx": [0,1,2],
+     "ensemble": "npt", "nsteps": 1000, "press": [1.0],"temps": [1100,1300,1500], "trj_freq": 5 },
+   { "_idx": 28,
+     "sys_idx": [0,1,2],
+     "ensemble": "npt", "nsteps": 1000, "press": [1.0],"temps": [1700,1900,2100], "trj_freq": 5 },
+   { "_idx": 29,
+     "sys_idx": [0,1,2],
+     "ensemble": "npt", "nsteps": 1000, "press": [1.0],"temps": [1700,1900,2100], "trj_freq": 5 },
+   { "_idx": 30,
+     "sys_idx": [0,1,2],
+     "ensemble": "npt", "nsteps": 1000, "press": [1.0],"temps": [1700,1900,2100], "trj_freq": 5 },
+   { "_idx": 31,
+     "sys_idx": [0,1,2],
+     "ensemble": "npt", "nsteps": 1000, "press": [1.0],"temps": [2300,2500,2700], "trj_freq": 5 },
+   { "_idx": 32,
+     "sys_idx": [0,1,2],
+     "ensemble": "npt", "nsteps": 2000, "press": [1.0],"temps": [2300,2600,2900], "trj_freq": 5 },
+   { "_idx": 33,
+     "sys_idx": [0,1,2],
+     "ensemble": "npt", "nsteps": 2000, "press": [1.0],"temps": [2300,2600,2900], "trj_freq": 5 },
+   { "_idx": 34,
+     "sys_idx": [0,1,2],
+     "ensemble": "npt", "nsteps": 2000, "press": [1.0],"temps": [2300,2600,2900], "trj_freq": 5 },
+   { "_idx": 35,
+     "sys_idx": [0,1,2],
+     "ensemble": "npt", "nsteps": 1000, "press": [1.0],"temps": [3100,3200,3300,3400,3500], "trj_freq": 5 },
+   { "_idx": 36,
+     "sys_idx": [0,1,2],
+     "ensemble": "npt", "nsteps": 2000, "press": [1.0],"temps": [3100,3200,3300,3400,3500], "trj_freq": 5 },
+   { "_idx": 37,
+     "sys_idx": [0,1,2],
+     "ensemble": "npt", "nsteps": 600, "press": [1.0],"temps": [3100,3200,3300,3400,3500], "trj_freq": 5 },
+   { "_idx": 38,
+     "sys_idx": [0,1,2],
+     "ensemble": "npt", "nsteps": 600, "press": [1.0],"temps": [3100,3200,3300,3400,3500], "trj_freq": 5 },
+   { "_idx": 39,
+     "sys_idx": [0,1,2],
+     "ensemble": "npt", "nsteps": 600, "press": [1.0],"temps": [3100,3200,3300,3400,3500], "trj_freq": 5 },
+   { "_idx": 40,
+     "sys_idx": [0,1,2],
+     "ensemble": "npt", "nsteps": 600, "press": [1.0],"temps": [3100,3200,3300,3400,3500], "trj_freq": 5 },
+   { "_idx": 41,
+     "sys_idx": [0,1,2],
+     "ensemble": "npt", "nsteps": 2000, "press": [1.0],"temps": [3700,3800,3900,4100,4200], "trj_freq": 5 },
+   { "_idx": 42,
+     "sys_idx": [0,1,2],
+     "ensemble": "npt", "nsteps": 2000, "press": [1.0],"temps": [3700,3800,3900,4100,4200], "trj_freq": 5 },
+    { "_idx": 41,
+     "sys_idx": [0,1,2],
+     "ensemble": "npt", "nsteps": 1000, "press": [1.0],"temps": [4500,4700,4800,4900,5000], "trj_freq": 5 },
+   { "_idx": 42,
+     "sys_idx": [0,1,2],
+     "ensemble": "npt", "nsteps": 2000, "press": [1.0],"temps": [4500,4700,4800,4900,5000], "trj_freq": 5 },
+   { "_idx": 43,
+     "sys_idx": [0,1,2],
+     "ensemble": "npt", "nsteps": 2000, "press": [1.0],"temps": [4500,4700,4800,4900,5000], "trj_freq": 5 }
+
+
+    ],
+    "_comment":		" 02.fp ",
+    "fp_style":		"vasp",
+    "shuffle_poscar":	false,
+    "fp_task_max":	1500,
+    "fp_task_min":	20,
+    "fp_pp_path":	"./",
+    "fp_pp_files":	["./POTCAR.As","./POTCAR.B"],
+    "fp_incar":         "./INCAR_methane",
+    "_comment":		" that's all "
+}
+
