@@ -1,0 +1,66 @@
+echo 			screen
+
+#log 			./thermal.txt
+units			metal
+dimension       3
+boundary	    p p p
+newton 		    on
+
+#------------------- Parameters ---------------------- 
+#------------------------------------------------------
+atom_style			atomic
+neighbor 			3 nsq
+read_data 			dataCAsB
+replicate                       5 5 5
+#------------------------------------------------------
+
+#-------------------------MTP Potential-------------------
+#MTP
+pair_style     deepmd graph.pb 
+pair_coeff    
+#------------------------------------------------------ 
+#fix             11 all box/relax x 0.0 y 0.0 z 0.0
+#----------------Fixed Layers at two ENDs--------------
+velocity all create 300.0 4928459 rot yes dist gaussian
+#------------------------------------------------------
+
+#-------------- Grouping the Thermal Layers -----------
+#-------------------------------------------------------
+
+#-----------------OutPut Style-1--------------------------
+
+timestep     		0.001    #0.0005
+thermo 					1000
+thermo_style 		custom step etotal temp 
+thermo_modify 	    norm yes
+
+#velocity all create 300.0 4928459 rot yes dist gaussian
+restart         1000000 carbon.restart
+#---------------  Boundary Fixing and Equilibrium Run ------------------------
+dump            0 all custom 10000 LZ.lmc id type  mass x y z
+fix          	nvt all nvt temp 300 300 0.1
+#dump            0 all custom 100 LZ.lmc id type  mass x y z
+
+thermo 		1000
+run         100000	
+unfix       nvt
+fix         nve all nve
+run         100000
+
+# 在产出阶段计算热流
+compute      KE all ke/atom                # 计算单原子动能
+compute      PE all pe/atom                # 计算单原子势能
+compute      V all stress/atom NULL virial # 计算单原子位力
+compute      J all heat/flux KE PE V       # 计算单原子热流
+
+# 在产出阶段计算热流自关联函数 <J(0)J(t)>
+variable    Ns equal 10             # 取样间隔
+variable    Nc equal 80000            # 关联数据量（最大关联时间为 Ns*Nc*DT）
+variable    Np equal ${Ns}*${Nc}*10 # 产出步数（这是一个好的选择）
+fix         HAC all ave/correlate ${Ns} ${Nc} ${Np} c_J[1] c_J[2] c_J[3]  type auto file hac.txt
+
+variable    M equal 20         # 热流自关联函数的个数 
+variable    N equal ${M}*${Np} # 产出步数 
+            
+# 跑产出阶段 
+run         ${N}
