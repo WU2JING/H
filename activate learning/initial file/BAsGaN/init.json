@@ -1,0 +1,22 @@
+{
+"stages":[3,4],                                                
+"super_cell":   [1, 1, 1],                                                   
+"elements":     ["As","B","Ga","N"], 
+"cell_type":    "",
+"from_poscar":  true,                                                        
+"from_poscar_path": "./POSCAR",                                        
+"potcars":      [
+                 "./POTCAR.As","./POTCAR.B","./POTCAR.Ga","./POTCAR.N"                                            
+        ],                                                                   
+"relax_incar": "./INCAR.rlx",                                          
+"md_incar" : "./INCAR.md",                                             
+"scale":        [0.98,1.00,1.02],                                                      
+"skip_relax":   true,                                                       
+"pert_numb":    10,                                                          
+"md_nstep" :    15,                                                             
+"pert_box":     0.01,                                                        
+"pert_atom":    0.03,                                                        
+"coll_ndata":   5000,   
+"type_mape":   ["As","B","Ga","N"], 
+"_comment":     "that's all"                                                 
+ }       
